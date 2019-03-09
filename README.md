@@ -1,3 +1,3 @@
-#Image Processing
+# Image Processing
 
-This script will take a series of pictures from the computer's webcam and merges them to control saturation and exposure
+Simple Python script to merge a series of imperfect pictures to fix common saturation and exposure issues.

@@ -1,3 +1,3 @@
 # Image Processing
 
-Simple Python script to merge a series of imperfect pictures to fix common saturation and exposure issues.
+Simple Python script that merges a series of imperfect pictures to fix common saturation and exposure issues.
